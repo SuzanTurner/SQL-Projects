@@ -1,4 +1,4 @@
-# 📚 Bookstore SQL Project
+# 📚 [Bookstore](https://github.com/SuzanTurner/SQL-Projects/tree/main/Books) SQL Project
 
 This project demonstrates SQL queries on a simple *Bookstore Database* built from three datasets:
 
