@@ -1,4 +1,4 @@
-# 📚 [Bookstore](https://github.com/SuzanTurner/SQL-Projects/tree/main/Books) SQL Project
+# 📚 [Books SQL Project](https://github.com/SuzanTurner/SQL-Projects/tree/main/Books) 
 
 This project demonstrates SQL queries on a simple *Bookstore Database* built from three datasets:
 
@@ -22,7 +22,7 @@ After loading the data, a set of queries is executed to explore and analyze the 
 
 ---
 
-# {Zepto Dataset Analysis](https://github.com/SuzanTurner/SQL-Projects/tree/main/Zepto)
+# [Zepto Dataset Analysis](https://github.com/SuzanTurner/SQL-Projects/tree/main/Zepto)
 
 This repository contains the Zepto dataset loaded into PostgreSQL and explored using SQL queries. The dataset includes product details such as pricing, discounts, stock availability, weights, and categories.
 
