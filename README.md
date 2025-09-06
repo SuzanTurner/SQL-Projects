@@ -3,7 +3,8 @@
 ## 📂 Contents
 - Books.xlsx– book details (title, author, genre, price, stock, year)  
 - Orders.xlsx – customer orders (order date, quantity, total amount, book ID, customer ID)  
-- Customers.xlsx – customer information (name, country, city, etc.)  
+- Customers.xlsx – customer information (name, country, city, etc.)
+- queries.sql
 ---
 
 # [Zepto Dataset Analysis](https://github.com/SuzanTurner/SQL-Projects/tree/main/Zepto)
