@@ -22,7 +22,7 @@ After loading the data, a set of queries is executed to explore and analyze the 
 
 ---
 
-# Zepto Dataset Analysis
+# {Zepto Dataset Analysis](https://github.com/SuzanTurner/SQL-Projects/tree/main/Zepto)
 
 This repository contains the Zepto dataset loaded into PostgreSQL and explored using SQL queries. The dataset includes product details such as pricing, discounts, stock availability, weights, and categories.
 
